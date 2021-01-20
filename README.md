@@ -1,34 +1,21 @@
 # Tailwind-pracising
 
-Trying to improve my skills in Tailwind CSS.
+Trying to improve my skills in Tailwind CSS [Tailwind CSS](https://tailwindcss.com/)
 
 # What is Tailwind
 
 Tailwind is a utility-first CSS framework. In contrast to other CSS frameworks like Bootstrap or Materialize CSS it doesn't come with predefined components. Instead Tailwind CSS operates on a lower level and provides you with a set of CSS helper classes.
 
+# What do I need to use Tailwind
 
+- To use Tailwind you need [Node JS](https://nodejs.org/en/)
+- A code editor of choice. I recommend [Visual Studio Code](https://code.visualstudio.com/)
 
-
-
-
-
-
-# OpenWeatherAPI
-
-This project was made with [OpenweatherAPI](https://openweathermap.org/) and [Javascript JS](https://reactjs.org/)
+# Installation
+ To install Tailwind CSS and to make sure you download the latest version check out the documentation [Documentation](https://tailwindcss.com/docs/installation)
 
 ## About
 
-This project is build in React and is using the OpenWeather API.
-If you want to use this application make sure you get your own API key. You can get the key on the website [OpenweatherAPI](https://openweathermap.org/). 
-
-Searches [press Enter] the Openweather Database and looks for the inserted country or city.
-When A country is inserted it returns the average temperature from all cities in that country.
-
-Invalid input returns an empth textbox.
-
-See the screenshots below 
+Trying out some basic Tailwind configuration and css
 
 
-![](Preview1.JPG)
-![](Preview2.JPG)
