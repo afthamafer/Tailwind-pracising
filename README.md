@@ -19,3 +19,6 @@ Tailwind is a utility-first CSS framework. In contrast to other CSS frameworks l
 Trying out some basic Tailwind configuration and css
 
 
+
+![](Preview1Tailwind.JPG)
+![](Preview2Tailwind.JPG)
